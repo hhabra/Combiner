@@ -15,7 +15,7 @@ Description: This package aligns LC-HRMS metabolomics datasets acquired from
     into groups of similar m/z, and ranked by a similarity score. Input tables 
     are assumed to be  acquired using similar (but not necessarily identical) 
     analytical methods.
-Depends: R (>= 4.0), dplyr (>= 1.0)
+Depends: R (>= 3.5), dplyr (>= 1.0)
 Imports: 
     methods, 
     mgcv, 
